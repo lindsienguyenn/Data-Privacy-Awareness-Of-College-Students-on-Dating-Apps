@@ -1,4 +1,4 @@
-# Data Privacy Awareness Of College Students on Dating Apps
+# College Student Privacy Awareness on Dating Apps
 
 ## 🔗View the research poster — [Study Poster](./Study%20Poster.png)
 
